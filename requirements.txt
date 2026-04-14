@@ -6,3 +6,10 @@ langchain-anthropic
 python-dotenv
 pydantic
 duckduckgo-search
+pymupdf
+chromadb
+openai
+tiktoken
+requests
+arxiv
+langchain-text-splitters
